@@ -140,9 +140,8 @@ aside.show {
 
 main {
     flex:1;
-    padding:20px
- 
-     
+    padding:20px;
+    margin-top:60px;
 }
 
 h1, h2 {
@@ -714,7 +713,4 @@ footer .social-icon {
     cursor: pointer;
 }
 
-.contador {
-  display: flex;
-  justify-content: center;
-}
+
